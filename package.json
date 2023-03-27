@@ -1,0 +1,26 @@
+{
+  "name": "linter-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandejunin/linter-ESlint.git"
+  },
+  "author": "juan amieva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juandejunin/linter-ESlint/issues"
+  },
+  "homepage": "https://github.com/juandejunin/linter-ESlint#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
